@@ -1,0 +1,5 @@
+#Hiding files
+__pycache__/
+*.log 
+temp/
+
