@@ -16,3 +16,8 @@ print ("welcome to Task Manager")
 
 def list_tasks():
     return tasks
+
+
+def complete_task(index):
+
+  tasks.pop(index)
