@@ -1,6 +1,7 @@
 
 print("welcome to task manager")
 
+
 print("Task Manager Started")
 
 tasks =[]
@@ -11,3 +12,7 @@ tasks =[]
 
 print ("welcome to Task Manager")
 
+
+
+def list_tasks():
+    return tasks
